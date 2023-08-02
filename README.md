@@ -1,4 +1,10 @@
-# Install:
+# Usage:
+```
+npm i
+node ethers.jsTest.js
+```
+
+# How to Install Package:
 ```
 npm init -y
 npm install ethers
